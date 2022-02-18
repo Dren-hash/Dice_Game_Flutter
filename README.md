@@ -1,7 +1,8 @@
 # dice_game_flutter
 
 A new Flutter project.
-
+It is a dice app that changes numbers each type the user press one dice. 
+It makes use of various dart data types and variables and functions. The Expand class and Buttons widgets were used.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
